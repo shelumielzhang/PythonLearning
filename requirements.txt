@@ -1,7 +1,7 @@
 appnope==0.1.0
 astroid @ file:///opt/concourse/worker/volumes/live/b22b518b-f584-4586-5ee9-55bfa4fca96e/volume/astroid_1592495912194/work
 backcall==0.2.0
-certifi==2020.6.20
+certifi==2022.12.7
 decorator==4.4.2
 ipykernel @ file:///opt/concourse/worker/volumes/live/d654d7d0-7a76-45d4-7a77-21259603748d/volume/ipykernel_1595347267440/work/dist/ipykernel-5.3.3-py3-none-any.whl
 ipython @ file:///opt/concourse/worker/volumes/live/7ea70a71-5624-4799-50b3-3b90e07922f3/volume/ipython_1593447385860/work
